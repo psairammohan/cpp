@@ -1,1 +1,1 @@
-Please enter a number: [error]Entered number is 5
+ Please enter a number:  [error]Entered number is 5
