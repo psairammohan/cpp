@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/psai/Documents/moderncpp/cpp/CPP_3/cmake_proj/src/blah.h
+
+/home/psai/Documents/moderncpp/cpp/CPP_3/cmake_proj/src/hello.h
+iostream
+-
+
+/home/psai/Documents/moderncpp/cpp/CPP_3/cmake_proj/src/main.cpp
+iostream
+-
+hello.h
+/home/psai/Documents/moderncpp/cpp/CPP_3/cmake_proj/src/hello.h
+blah.h
+/home/psai/Documents/moderncpp/cpp/CPP_3/cmake_proj/src/blah.h
+

@@ -1,0 +1,19 @@
+Start testing: Aug 12 17:52 IST
+----------------------------------------------------------
+Unable to find executable: test/test_blah
+1/1 Testing: test_blah
+1/1 Test: test_blah
+Command: ""
+Directory: /home/psai/Documents/moderncpp/cpp/CPP_3/cmake_proj/build/test
+"test_blah" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_blah" end time: Aug 12 17:52 IST
+"test_blah" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 12 17:52 IST

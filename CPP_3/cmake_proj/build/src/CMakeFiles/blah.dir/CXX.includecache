@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/psai/Documents/moderncpp/cpp/CPP_3/cmake_proj/src/blah.cpp
+./blah.h
+/home/psai/Documents/moderncpp/cpp/CPP_3/cmake_proj/src/blah.h
+
+/home/psai/Documents/moderncpp/cpp/CPP_3/cmake_proj/src/blah.h
+
